@@ -1,0 +1,13 @@
+@relation rel2
+
+@attribute firstNumeric numeric
+@attribute secondNumeric numeric
+@attribute aNominal {black, gray, blue}
+@attribute theClass {positive, negative}
+
+@data
+1.0,1.0,gray,positive
+0.0,0.0,blue,negative
+1.0,0.5,gray,positive
+0.0,0.5,blue,negative
+1.0,0.5,black,positive
