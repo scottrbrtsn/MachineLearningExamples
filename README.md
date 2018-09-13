@@ -9,7 +9,6 @@ This is a sample project to demonstrate the Weka Machine Learning libraries.
 - Postgres
 - Must be run on a Raspbery Pi
 - mvn spring-boot:run
-- http://localhost:9000/index.html
 
 ## Current API
 localhost:8080/weka/classifier
