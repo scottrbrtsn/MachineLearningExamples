@@ -4,6 +4,7 @@
 This is a sample project to demonstrate the Weka Machine Learning libraries. 
 
 ## To Run The Java App
+@requires
 - Java
 - Maven
 - Postgres
